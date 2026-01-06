@@ -1,3 +1,9 @@
+"""
+constant.py
+---------
+Centralized configuration for model selection,
+system instructions, and generation parameters..
+"""
 from google.genai import types
 
 from prompt import *
